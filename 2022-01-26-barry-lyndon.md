@@ -1,0 +1,20 @@
+---
+title: "Three Duels of Barry Lyndon"
+categories: [cinema]
+tags: [kubrick, movie review]
+pin: true
+---
+
+!["Drunk scene from Stanley Kubricks Barry Lyndon"]({{ "/assets/img/movies/Drunk scene from Stanley Kubricks Barry Lyndon.jpg" | absolute_url}})
+
+Each scene of Stanley Kubrick’s *Barry Lyndon* is a painting. You cannot help but get immersed in the Georgian era, costumes, landscape. Kubrick often deliberately pauses his characters, slows down any movement, so that a viewer can scrutinize the scene as a painting. This three-hour-long commercial failure, shot in 300 days, with its beautiful music and visual genius, explores human nature with a ridiculous emphasis in detail.
+
+There are three important duels in the story of Barry Lyndon. The first duel, with which the film unfolds to a viewer, kills the father of the main character. Then young Barry Lyndon challenges the lover and future husband of Nora Brady, the girl whom he is deeply in love with, to duel. He allegedly kills his experienced and rich opponent and leaves his home to get away from arrest. Similarly to Fabrice del Dongo, the hero of Stendhal’s masterpiece *The Charterhouse of Parma*, he is naïve at the beginning of his journey, and soon gets robbed of all his money and horse. Penniless, he enlists in the British army, and punishes the offender in hand-to-hand combat.
+
+At this point, one may suppose that a viewer is to observe a hero’s journey rising from his humble background to the upper society solely with the help of his brave character. For boldness and pride are the traits driving Barry Lyndon, with which he reminds us of another major personage by Stendhal, Julien Sorel, the protagonist of the writer’s magnum opus *The Red and the Black*. However, soon something unexpected happens — Barry Lyndon deserts the army.
+
+Intermission. The desertion is a major break point of the story, for it is the first glimpse into the unprincipled character of our hero. His reason is cold, calculating, unimpassioned. But as the narrator often spoils for us the events to be unfolded, we get notified that the same character traits that help Barry Lyndon to rise to the top, are also going to bring him down. He is a materialist, his desires control his decisions and actions, his wife for him is nothing more than an expensive carpet on the floor, or gigantic painting on the wall. He is mechanical and distant, there is nothing heroic in his desires. In this, Barry Lyndon differs from Fabrice del Dongo, or Julien Sorel.
+
+We mentioned two of the main duels: the duel that killed Barry’s father, and the duel fought for Nora Brady. The third duel, overduely challenged by Barry’s stepchild, whom he had beaten and humiliated in front of the public, costs him his leg. In the perfectly crafted duel scene, we, as viewers, finally get reminded that our hero is not completely spoiled; he also possesses certain virtues to be admired. We recall his fatherless childhood, pride, braveness, his selfless love toward his own child, and inconsolable lament for that child’s untimely death. We realize that, in the end, Barry Lyndon is human, although quite miserable one.
+
+It is rather an incomplete essay I am writing. I was moved by Kubrick’s masterpiece, it terrified me, it fed my aesthetical needs. I understood that if there was a moral to the story of Barry Lyndon, then Kubrick didn’t want us to delve into it too much. We should realize that personages with their household scandals, little desires, *“good or bad, handsome or ugly, rich or poor, are all equal now”*, and the life of Barry Lyndon reflects our own lives. Indeed, Kubrick’s movie is about desires, not morality. Or as the famous film critic Oscar Wilde once said: *“There is no such thing as a moral or an immoral movie. Movies are well shot, or badly shot. That is all.”*
